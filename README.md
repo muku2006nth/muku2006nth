@@ -69,14 +69,6 @@ I believe in **learning by building** — shipping small projects, experimenting
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muku2006nth&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 👁️ Visitor Counter
 
 <p align="center">
