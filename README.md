@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/017/414/059/original/cute-boy-student-coding-on-laptop-png.png" width="200px" />
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukunth+Gopi!;Web+Dev+Enthusiast+%7C+JS+Learner;Chrome+Extension+Builder;Always+learning+something+new+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukunth+Gopi!;Web+Dev+Enthusiast+%7C+Web+3+Enthusiast;Android+Studio+Developer;Always+learning+something+new+🚀" />
 </p>
 
 <p align="center">
