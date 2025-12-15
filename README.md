@@ -63,6 +63,14 @@ I believe in **learning by building** — shipping small projects, experimenting
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muku2006nth&theme=dark" height="150"/>
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muku2006nth&layout=compact&theme=dark&langs_count=8"
+    height="180"
+  />
+</p>
+
+
 ---
 
 ## 👁️ Visitor Counter
