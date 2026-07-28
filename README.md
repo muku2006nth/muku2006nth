@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukunth+Gopi!;Web+Dev+Enthusiast+%7C+Web+3+Enthusiast;Android+Studio+Developer;Always+learning+something+new+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Mukunth+Gopi!;Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer;Building+AI-powered+Applications+🚀" />
 </p>
 
 <p align="center">
@@ -17,79 +17,141 @@
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
-I'm a **curious developer** who loves building small, practical tools that make everyday digital tasks easier.  
-Right now I'm focused on:
+I'm **Mukunth Gopi**, a **Computer Science undergraduate (CGPA: 9.05/10)** passionate about **Software Engineering, AI/ML, and Full-Stack Development**.
 
-- 🟡 JavaScript fundamentals  
-- 🟣 Chrome Extensions  
-- 🔵 Web APIs  
-- 🟢 MERN stack basics  
+I enjoy building scalable applications—from backend APIs to AI-powered systems—and continuously learning modern technologies through real-world projects and internships.
 
-I believe in **learning by building** — shipping small projects, experimenting fast, and improving as I go.
+### 🚀 Current Interests
+
+- 🤖 Artificial Intelligence & LLM Applications
+- ⚡ FastAPI & Backend Engineering
+- 🌐 Full Stack Development (React + Node.js)
+- ☁️ Cloud Computing & DevOps
+- 📱 Mobile Application Development
+
+> *Learning by building. Improving with every project.*
 
 ---
 
-## 🛠️ Tech I Work With
+# 🛠️ Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,kotlin,sql" />
+</p>
+
+### Frameworks & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,flutter,tailwind" />
+</p>
+
+### Databases & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,aws,docker,linux,git,github" />
+</p>
+
+### AI / ML
+
+- PyTorch
+- Scikit-learn
+- NumPy
+- Pandas
+- Hugging Face Transformers
+- LLMs
+- RAG
+- NLP
+- Agentic AI
+
+---
+
+# 💼 Experience
+
+### 🤖 AI Engineer Intern — TSI Software (2026)
+
+- Built AI-powered backend services using **Python, FastAPI & LLM integrations**
+- Worked on enterprise AI workflows and scalable backend systems
+- Collaborated with senior engineers on production-ready applications
+
+### 📱 Software Development Intern — Senchola Technologies (2025)
+
+- Developed the **Amico Chit Funds** Android application using Kotlin
+- Automated workflow management using **n8n**
+- Built production-ready features and internal automation tools
+
+---
+
+# 🚀 Featured Projects
+
+### 🔐 Vigil Dev — AI Vulnerability Detection
+
+- Fine-tuned CodeBERT on **27K+ samples**
+- Integrated Semgrep + RAG + LLaMA 3
+- FastAPI + React dashboard
+- Detects multiple vulnerability classes
+
+---
+
+### 👁️ Diabetic Retinopathy Prediction
+
+- CNN + Transfer Learning
+- FastAPI + React
+- Automated medical report generation
+
+---
+
+### 🌍 EVAC Platform
+
+- AI-powered disaster response system
+- A* & Dijkstra pathfinding
+- React + Leaflet.js
+- Live evacuation routing
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muku2006nth&theme=dark" height="170"/>
 </p>
 
 ---
 
-## 🚀 Mini Projects & Ideas
-
-🔹 Prompt Builder Web App  
-🔹 Chrome Extension – Quick Notes / Pomodoro  
-🔹 QR Code Generator  
-🔹 Personal Portfolio Website  
-
-> I like building tools that actually get used — not just demo code.
-
----
-
-## 📊 GitHub Stats
+# 🗓️ 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muku2006nth&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muku2006nth&theme=dark" height="150"/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muku2006nth&layout=compact&theme=dark&langs_count=8"
-    height="180"
-  />
-</p>
-
-
----
-
-## 👁️ Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muku2006nth&style=for-the-badge&color=blue" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muku2006nth&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:mukunthgopi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/mukunthgopi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/muku2006nth">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
   <a href="https://www.instagram.com/_.muk.404.error._/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -98,5 +160,6 @@ I believe in **learning by building** — shipping small projects, experimenting
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/muku2006nth">muku2006nth</a>
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
 </p>
+```
