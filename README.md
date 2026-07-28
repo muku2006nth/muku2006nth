@@ -19,7 +19,7 @@
 
 # 👨‍💻 About Me
 
-I'm **Mukunth Gopi**, a **Computer Science undergraduate (CGPA: 9.05/10)** passionate about **Software Engineering, AI/ML, and Full-Stack Development**.
+I'm **Mukunth Gopi**, a **Computer Science undergraduate** passionate about **Software Engineering, AI/ML, and Full-Stack Development**.
 
 I enjoy building scalable applications—from backend APIs to AI-powered systems—and continuously learning modern technologies through real-world projects and internships.
 
